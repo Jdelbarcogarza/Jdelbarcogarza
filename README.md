@@ -1,24 +1,31 @@
 <p align="center">
-<img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png" >
-<img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png" >
-  
-   </img>
+  <a href="https://www.linkedin.com/in/jdelbarco/"><img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20name.png"</img></a>
 </p>
+
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Jdelbarcogarza&color=brightgreen&label=PROFILE+VIEWS)
+
+I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
+
+---
+
+- 🔭 I’m currently working on creating my own web portfolio.
+- 🌱 I’m currently learning Javascript based technologies to make the web a better place.
+- 📫 How to reach me: Hit me up on <a href="https://www.linkedin.com/in/jdelbarco/">LinkedIn</a>!
+- 👯 I’m looking to collaborate on anything that involves improving open source or social-cause oriented projects.
+- 💬 Ask me about ANYTHING!
+- 🤔 I’m looking for help with findingg the right tech stack to build my web portfolio.
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jdelbarcogarza&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact" />
+</a>
 <!--
-**Jdelbarcogarza/Jdelbarcogarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
