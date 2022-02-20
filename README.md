@@ -24,8 +24,8 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact" />
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
 </a>
 <!--
 -->
