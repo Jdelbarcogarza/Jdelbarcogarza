@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.pexels.com/photo/black-and-gray-motherboard-2582937/)
+[![Header](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png "Header")](https://www.pexels.com/photo/black-and-gray-motherboard-2582937/)
 
 
 <!--
