@@ -19,13 +19,12 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
 
 ---
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jdelbarcogarza&show_icons=true&theme=chartreuse-dark" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdelbarcogarza&show_icons=true&theme=chartreuse-dark" />
 
-
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
 </a>
+  </div>
 <!--
 -->
