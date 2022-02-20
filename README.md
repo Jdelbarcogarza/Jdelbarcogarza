@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/jdelbarco/"><img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20name.png"</img></a>
 </p>
 
-### Hi there 👋
+## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Jdelbarcogarza&color=brightgreen&label=PROFILE+VIEWS)
 
@@ -19,13 +19,23 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
 
 ---
 
+### Tech Stack
+
+![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jdelbarcogarza&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
 </a>
 <!--
 -->
