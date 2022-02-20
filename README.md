@@ -1,13 +1,15 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jdelbarco/"><img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20name.png"</img></a>
+  <a href="#"><img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20name.png"</img></a>
 </p>
+<br>
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=Jdelbarcogarza&color=brightgreen&label=PROFILE+VIEWS"></img></p>-->
 
-I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
+### 😎 About Me 
 
----
+I'm Jorge, a Computer Science student from Monterrey, Mexico 🤠🌵.
+
 
 - 🔭 I’m currently working on creating my own web portfolio.
 - 🌱 I’m currently learning Javascript based technologies to make the web a better place.
@@ -18,7 +20,9 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
 
 ---
 
-<div align="center">
+### 🛠️ Tech stack & skills 
+<br>
+<div align="left">
   
   <!-- TODO: Add alt text -->
   
@@ -40,6 +44,9 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
   
 </div>
 
+
+### 📊 Github Analytics
+
 <br>
 
 <div align="center">
@@ -49,5 +56,4 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
 </a>
   </div>
-<!--
--->
+
