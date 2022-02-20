@@ -11,7 +11,7 @@ I'm Jorge, a Computer Science student from Monterrey 🤠 Mexico 🌵.
 
 - 🔭 I’m currently working on creating my own web portfolio.
 - 🌱 I’m currently learning Javascript based technologies to make the web a better place.
-- 📫 How to reach me: Hit me up on <a href="https://www.linkedin.com/in/jdelbarco/">LinkedIn</a>! 
+- 📫 How to reach me: Hit me up on <a href="https://www.linkedin.com/in/jdelbarco/">LinkedIn</a>!
 - 👯 I’m looking to collaborate on anything that involves improving open source or social-caused oriented projects.
 - 💬 Ask me about ANYTHING!
 - 🤔 I’m looking for help with finding the right tech stack to build my web portfolio.
