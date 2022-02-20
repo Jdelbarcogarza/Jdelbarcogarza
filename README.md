@@ -1,6 +1,8 @@
-### Hi there 👋
 
 [![Header](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png "Header")](https://www.pexels.com/photo/black-and-gray-motherboard-2582937/)
+
+### Hi there 👋
+
 
 
 <!--
