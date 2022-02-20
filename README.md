@@ -1,6 +1,9 @@
-
-[![Header](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png "Header")](https://www.pexels.com/photo/black-and-gray-motherboard-2582937/)
-
+<p align="center">
+<img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png" >
+<img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20logo.png" >
+  
+   </img>
+</p>
 ### Hi there 👋
 
 
