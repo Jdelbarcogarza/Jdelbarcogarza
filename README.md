@@ -22,11 +22,10 @@ I'm Jorge, a Computer Science student from Monterrey, Mexico 🤠🌵.
 
 ### 🛠️ Tech stack & skills 
 <br>
-<div align="left">
+<div align="center">
   
   <!-- TODO: Add alt text -->
   
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=archlinux&logoColor=white&color=2bbc8a" />
@@ -41,6 +40,11 @@ I'm Jorge, a Computer Science student from Monterrey, Mexico 🤠🌵.
   <img src="https://img.shields.io/badge/CLI-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Tool-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Library-Material UI-informational?style=flat&logo=mui&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a" />
+  
+  
   
 </div>
 
