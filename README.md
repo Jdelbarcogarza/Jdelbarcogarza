@@ -89,5 +89,8 @@ Computer Science student from Monterrey, Mexico 🤠🌵.
 * Masters Dimex: Build with Vue JS and Tailwind CSS
 ![masters](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/masters.png)
 
-* Regal Insights: Built with React and Next JS and Tailwind CSS
+* Regal Insights: Built with React, Next JS and Tailwind CSS
 ![regal](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/security%20dashboard.png)
+
+* FSAE Landing Page: Build with React, Next JS, and Chakra UI
+![FSAE](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/FSAE%20landing%20page.png)
