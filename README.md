@@ -84,3 +84,6 @@ Computer Science student from Monterrey, Mexico 🤠🌵.
 </a>
   </div>
 
+## Projects
+
+![masters](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/masters.png)
