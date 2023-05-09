@@ -86,4 +86,8 @@ Computer Science student from Monterrey, Mexico 🤠🌵.
 
 ## Projects
 
+* Masters Dimex: Build with Vue JS and Tailwind CSS
 ![masters](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/masters.png)
+
+* Regal Insights: Built with React and Next JS and Tailwind CSS
+![regal](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/security%20dashboard.png)
