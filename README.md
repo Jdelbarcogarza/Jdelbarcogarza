@@ -11,15 +11,17 @@
 
 Computer Science student from Monterrey, Mexico 🤠🌵.
 
-- 🛠️ Part-time software engineer @ DmX
-- 🎯 Building a web page @ PoligramaMX
+- 🛠️ Software engineer Intern @ Softtek
+- 🎯 Building my portfolio web page (finally)
 - 👌 React and Vue developer
 - 🌐 Web development enthusiast
+- 🎓 Graduating in Spring 2024
 - 🚧 What I love to build with: 
   - React
   - NextJS
-  - Tailwind CSS & Chakra UI
+  - Tailwind CSS
   - PostgreSQL & MongoDB
+  - Supabase
 ---
 
 ### 🛠️ Tech stack & skills 
