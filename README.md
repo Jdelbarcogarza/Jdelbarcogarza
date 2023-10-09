@@ -23,6 +23,8 @@ Computer Science student from Monterrey, Mexico 🤠🌵.
   - PostgreSQL & MongoDB
   - Supabase
 ---
+### 🎖️ Badges I've earned
+[![An image of @jdelbarcogarza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jdelbarcogarza)](https://holopin.io/@jdelbarcogarza)
 
 ### 🛠️ Tech stack & skills 
 <br>
