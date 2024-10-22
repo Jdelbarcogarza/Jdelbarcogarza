@@ -9,18 +9,18 @@
 ## About Me 
 
 
-Computer Science student from Monterrey, Mexico 🤠🌵.
+Software engineer from Monterrey, Mexico 🤠🌵.
 
-- 🛠️ Software engineer Intern @ Softtek
-- 🎯 Building my portfolio web page (finally)
-- 👌 React and Vue developer
+- 🛠️ Software engineer @ Softtek
+- 🎯 Road to AI Engineer
+- 👌 Frontend developer with React and Vue
 - 🌐 Web development enthusiast
-- 🎓 Graduating in Spring 2024
+- 🎓 Graduated Summer 2024
 - 🚧 What I love to build with: 
   - React
   - NextJS
   - Tailwind CSS
-  - PostgreSQL & MongoDB
+  - PostgreSQL
   - Supabase
 ---
 ### 🎖️ Badges I've earned
