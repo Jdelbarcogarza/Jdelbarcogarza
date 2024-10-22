@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="#"><img src="https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/brand%20name.png"</img></a>
 </p>
-<br>
+<br> -->
 
 <!--## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=Jdelbarcogarza&color=brightgreen&label=PROFILE+VIEWS"></img></p>-->
