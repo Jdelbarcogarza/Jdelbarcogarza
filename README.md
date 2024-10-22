@@ -89,7 +89,7 @@ Software engineer from Monterrey, Mexico 🤠🌵.
   </div>
 
 ## Projects
-
+<!--
 * Masters Dimex: Build with Vue JS and Tailwind CSS
 ![masters](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/masters.png)
 
@@ -98,3 +98,4 @@ Software engineer from Monterrey, Mexico 🤠🌵.
 
 * FSAE Landing Page: Build with React, Next JS, and Chakra UI
 ![FSAE](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/FSAE%20landing%20page.png)
+-->
