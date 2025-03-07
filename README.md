@@ -11,7 +11,7 @@
 
 Software engineer from Monterrey, Mexico 🤠🌵.
 
-- 🛠️ Software engineer @ Softtek
+- 🛠️ Software engineer @ Regrello
 - 🎯 Road to AI Engineer
 - 👌 Frontend developer with React and Vue
 - 🌐 Web development enthusiast
