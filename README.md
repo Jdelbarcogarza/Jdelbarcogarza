@@ -75,27 +75,3 @@ Software engineer from Monterrey, Mexico 🤠🌵.
   
 </div>
 
-
-### 📊 Github Analytics
-
-<br>
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdelbarcogarza&show_icons=true&theme=chartreuse-dark" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdelbarcogarza&layout=compact&theme=chartreuse-dark" />
-</a>
-  </div>
-
-## Projects
-<!--
-* Masters Dimex: Build with Vue JS and Tailwind CSS
-![masters](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/masters.png)
-
-* Regal Insights: Built with React, Next JS and Tailwind CSS
-![regal](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/security%20dashboard.png)
-
-* FSAE Landing Page: Build with React, Next JS, and Chakra UI
-![FSAE](https://github.com/Jdelbarcogarza/Jdelbarcogarza/blob/main/FSAE%20landing%20page.png)
--->
